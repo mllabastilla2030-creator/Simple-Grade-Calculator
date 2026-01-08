@@ -1,2 +1,2 @@
-# to-do-list
-A simple to-do list web application for managing daily tasks.
+# Simple Grade Calculator
+A simple grade calculator that computes the average of your subject scores and shows the corresponding letter grade.
