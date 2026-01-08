@@ -1,8 +1,11 @@
 # Simple Grade Calculator
-  **Project Description**
+
+  Project Description
+  =
   A simple grade calculator that computes the average of your subject scores and shows the corresponding letter grade.
 
-  **Features**
+  Features
+  =
 - Allows users to input grades for multiple subjects
 - Calculates the average score automatically
 - Displays the average rounded to 2 decimal places
@@ -15,19 +18,20 @@
 - Simple and beginner-friendly interface
 - No additional libraries required
 
-**Example Outputs**
+Example Outputs
+=
 Example 1: 
- -Enter Math grade: 95
- -Enter Science grade: 88
- -Enter English grade: 92
+ - Enter Math grade: 95
+ - Enter Science grade: 88
+ - Enter English grade: 92
 
  Average: 91.67
  Grade: A
 
 Example 2:
- -Enter Math grade: 75
- -Enter Science grade: 82
- -Enter English grade: 78
+ - Enter Math grade: 75
+ - Enter Science grade: 82
+ - Enter English grade: 78
 
  Average: 78.33
  Grade: C
