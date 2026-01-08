@@ -20,7 +20,7 @@ Example 1:
  -Enter Math grade: 95
  -Enter Science grade: 88
  -Enter English grade: 92
-=
+
  Average: 91.67
  Grade: A
 
@@ -28,6 +28,6 @@ Example 2:
  -Enter Math grade: 75
  -Enter Science grade: 82
  -Enter English grade: 78
-=
+
  Average: 78.33
  Grade: C
